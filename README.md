@@ -52,7 +52,6 @@
 <a name="general" />
 
 ## Introduction
-
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
 
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
@@ -102,7 +101,6 @@
 <a name="interview" />
 
 ## Interview Resources
-
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
@@ -132,7 +130,6 @@
 <a name="ga" />
 
 ## Genetic Algorithms
-
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
 - [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/miniga.html), [Part 2](http://outlace.com/miniga_addendum.html)
@@ -144,13 +141,12 @@
 - [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 
     - [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn)
-    
+
     - [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
 <a name="stat" />
 
 ## Statistics
-
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 
 - [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
@@ -180,7 +176,6 @@
 <a name="blogs" />
 
 ## Useful Blogs
-
 - [Edwin Chen's Blog](http://blog.echen.me/) - A blog about Math, stats, ML, crowdsourcing, data science
 
 - [The Data School Blog](http://www.dataschool.io/) - Data science for beginners!
@@ -224,7 +219,6 @@
 <a name="quora" />
 
 ## Resources on Quora
-
 - [Most Viewed Machine Learning writers](https://www.quora.com/topic/Machine-Learning/writers)
 
 - [Data Science Topic on Quora](https://www.quora.com/Data-Science)
@@ -244,7 +238,6 @@
 <a name="kaggle" />
 
 ## Kaggle Competitions WriteUp
-
 - [How to almost win Kaggle Competitions](https://yanirseroussi.com/2014/08/24/how-to-almost-win-kaggle-competitions/)
 
 - [Convolution Neural Networks for EEG detection](http://blog.kaggle.com/2015/10/05/grasp-and-lift-eeg-detection-winners-interview-3rd-place-team-hedj/)
@@ -258,7 +251,6 @@
 <a name="cs" />
 
 ## Cheat Sheets
-
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf),
 [Source](http://www.wzchen.com/probability-cheatsheet/)
 
@@ -267,7 +259,6 @@
 <a name="classification" />
 
 ## Classification
-
 - [Does Balancing Classes Improve Classifier Performance?](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
 
 - [What is Deviance?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
@@ -286,7 +277,6 @@
 <a name="linear" />
 
 ## Linear Regression
-
 - [General](#general-)
 
     - [Assumptions of Linear Regression](http://pareonline.net/getvn.asp?n=2&v=8), [Stack Exchange](http://stats.stackexchange.com/questions/16381/what-is-a-complete-list-of-the-usual-assumptions-for-linear-regression)
@@ -325,7 +315,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="logistic" />
 
 ## Logistic Regression
-
 - [Logistic Regression Wiki](https://en.wikipedia.org/wiki/Logistic_regression)
 
 - [Geometric Intuition of Logistic Regression](http://florianhartl.com/logistic-regression-geometric-intuition.html)
@@ -343,7 +332,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="validation" />
 
 ## Model Validation using Resampling
-
 - [Resampling Explained](https://en.wikipedia.org/wiki/Resampling_(statistics))
 
 - [Partioning data set in R](http://stackoverflow.com/questions/13536537/partitioning-data-set-in-r-based-on-multiple-classes-of-observations)
@@ -399,7 +387,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="deep" />
 
 ## Deep Learning
-
 - [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
 
 - [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
@@ -710,7 +697,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="nlp" />
 
 ## Natural Language Processing
-
 - [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing)
 
 - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
@@ -814,7 +800,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="svm" />
 
 ## Support Vector Machine
-
 - [Highest Voted Questions about SVMs on Cross Validated](http://stats.stackexchange.com/questions/tagged/svm)
 
 - [Help me Understand SVMs!](http://stats.stackexchange.com/questions/3947/help-me-understand-support-vector-machines)
@@ -868,7 +853,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="rl" />
 
 ## Reinforcement Learning
-
 - [Awesome Reinforcement Learning (GitHub)](https://github.com/aikorea/awesome-rl)
 
 - [RL Tutorial Part 1](http://outlace.com/Reinforcement-Learning-Part-1/), [Part 2](http://outlace.com/Reinforcement-Learning-Part-2/)
@@ -876,7 +860,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="dt" />
 
 ## Decision Trees
-
 - [Wikipedia Page - Lots of Good Info](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
 - [FAQs about Decision Trees](http://stats.stackexchange.com/questions/tagged/cart)
@@ -962,7 +945,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="rf" />
 
 ## Random Forest / Bagging
-
 - [Awesome Random Forest (GitHub)**](https://github.com/kjw0612/awesome-random-forest)
 
 - [How to tune RF parameters in practice?](https://www.kaggle.com/forums/f/15/kaggle-forum/t/4092/how-to-tune-rf-parameters-in-practice)
@@ -988,7 +970,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="gbm" />
 
 ## Boosting
-
 - [Boosting for Better Predictions](http://www.datasciencecentral.com/profiles/blogs/boosting-algorithms-for-better-predictions)
 
 - [Boosting Wikipedia Page](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
@@ -1034,7 +1015,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="ensem" />
 
 ## Ensembles
-
 - [Wikipedia Article on Ensemble Learning](https://en.wikipedia.org/wiki/Ensemble_learning)
 
 - [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
@@ -1062,7 +1042,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="stack" />
 
 ## Stacking Models
-
 - [Stacking, Blending and Stacked Generalization](http://www.chioka.in/stacking-blending-and-stacked-generalization/)
 
 - [Stacked Generalization (Stacking)](http://machine-learning.martinsewell.com/ensembles/stacking/)
@@ -1074,7 +1053,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="vc" />
 
 ## Vapnik–Chervonenkis Dimension
-
 - [Wikipedia article on VC Dimension](https://en.wikipedia.org/wiki/VC_dimension)
 
 - [Intuitive Explanantion of VC Dimension](https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way)
@@ -1091,7 +1069,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="bayes" />
 
 ## Bayesian Machine Learning
-
 - [Bayesian Methods for Hackers (using pyMC)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 - [Should all Machine Learning be Bayesian?](http://videolectures.net/bark08_ghahramani_samlbb/)
@@ -1110,7 +1087,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="semi" />
 
 ## Semi Supervised Learning
-
 - [Wikipedia article on Semi Supervised Learning](https://en.wikipedia.org/wiki/Semi-supervised_learning)
 
 - [Tutorial on Semi Supervised Learning](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf)
@@ -1129,7 +1105,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="opt" />
 
 ## Optimization
-
 - [Mean Variance Portfolio Optimization with R and Quadratic Programming](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/?utm_content=buffer04c12&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 - [Algorithms for Sparse Optimization and Machine Learning](http://www.ima.umn.edu/2011-2012/W3.26-30.12/activities/Wright-Steve/sjw-ima12)
@@ -1150,7 +1125,6 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="other" />
 
 ## Other Tutorials
-
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
 
 - For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).
